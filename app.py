@@ -232,10 +232,10 @@ with gr.Blocks(title='Video-LLaVA🚀', theme=gr.themes.Default(), css=block_css
                     f"{cur_dir}/examples/sample_demo_7.mp4",
                     "Create a short fairy tale with a moral lesson inspired by the video.",
                 ],
-                [
-                    f"{cur_dir}/examples/sample_demo_8.mp4",
-                    "Where is this video taken from? What place/landmark is shown in the video?",
-                ],
+                # [
+                #     f"{cur_dir}/examples/sample_demo_8.mp4",
+                #     "Where is this video taken from? What place/landmark is shown in the video?",
+                # ],
                 [
                     f"{cur_dir}/examples/sample_demo_12.mp4",
                     "What does the woman use to split the logs and how does she do it?",
